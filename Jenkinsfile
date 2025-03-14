@@ -1,7 +1,7 @@
 pipeline {
    environment {
      git_url = "https://github.com/salilkul/java-project.git"
-     git_branch = "master"
+     git_branch = "main"
    }
 
   //agent {label 'dev'}
